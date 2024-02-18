@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5e33c6b9-6012-4a05-8442-f2468d12e19e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Les02/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Les02/LinkedListWithTail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Les02/MainNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Les02/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Les04/NodeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Les05/Tirgul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +26,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ZzW54yHxDxXNNn5OMq8cjYa2ox" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.NodeTask">
     <configuration name="MainNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Les02.MainNode" />
       <module name="Data_structure_2024A_B" />
@@ -48,8 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NodeTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Les04.NodeTask" />
+      <module name="Data_structure_2024A_B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Les04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NodeTask" />
         <item itemvalue="Application.MainNode" />
       </list>
     </recent_temporary>
@@ -66,6 +97,10 @@
       <workItem from="1703425401021" duration="41000" />
       <workItem from="1703661702138" duration="119000" />
       <workItem from="1704018966464" duration="4701000" />
+      <workItem from="1704026414694" duration="2783000" />
+      <workItem from="1706440332988" duration="2993000" />
+      <workItem from="1707652216827" duration="176000" />
+      <workItem from="1707652400854" duration="2015000" />
     </task>
     <servers />
   </component>
